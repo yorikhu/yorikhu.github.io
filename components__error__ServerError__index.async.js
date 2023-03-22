@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[193],{3913:function(d,e,_){_.r(e);var r=_(93450),o=_.n(r),s=_(34013),u=_(85893),n=function(){var t={errorCode:"500",errorText:"\u62B1\u6B49\uFF0C\u670D\u52A1\u5668\u51FA\u9519\u4E86",homeUrl:"/home"};return(0,u.jsx)(s.Z,o()({},t))};e.default=n}}]);
